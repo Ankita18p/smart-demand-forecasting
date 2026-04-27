@@ -12,4 +12,5 @@ Alerts teams on stockout and overstock risks via email
 Dashboards for admins and data reviewers with full edit control
 
 ---Tech Stack
+
 Python 3.10 · Streamlit · XGBoost · pandas · Plotly · bcrypt
